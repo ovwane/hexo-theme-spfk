@@ -4,10 +4,13 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: /Home
-  作品展示: /works
-  留言打卡: /about
-  前端导航: /FrontEndGuide
+  首页: /
+  导航: /WebGuide
+  Love: /ovwane_love
+# 博客首页: /Home
+# 作品展示: /works
+# 留言打卡: /about
+# 前端导航: /FrontEndGuide
 # 静心阅读: /tags
 # 光影之路: /instagram
 # 随笔: /tags/随笔
@@ -24,13 +27,13 @@ favicon: img/favicon.png
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
-  github: "https://github.com/luuman"
-  zhihu: "#"
-  weibo: "#"
-  google: "#"
-  twitter: "#"
-  linkedin: "#"
+  #mail: "#"
+  github: "https://github.com/ovwane"
+  # zhihu: "#"
+  # weibo: "#"
+  # google: "#"
+  # twitter: "#"
+  # linkedin: "#"
   # facebook: "#"
   # rss: /atom.xml
   # pinterest: "#"
@@ -48,22 +51,22 @@ subnav:
 
 disqus: 
   # on: true
-  shortname: luuman
+  shortname: ovwane
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
   # It is unnecessary to enable disqus here if 
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
   # on: true
-  domain: luuman
+  domain: ovwane
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
 
 gitment:
   on: true
-  owner: luuman
-  repo: luuman.github.io
+  owner: ovwane
+  repo: ovwane.github.io
   client_id: 
   client_secret: 
 
@@ -174,12 +177,12 @@ baidushare: true
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-google_site: # pFW527fHrjfI0si2w4NQ0w3cTw12AvvuohAu1PUfqKA
-baidu_site: #c167b9feb4f0b208b712c79629c188e4
+google_site: rn8f25RzFQoiByt8ezg9E17KZIElbIlwJ4y-EKSlWbA
+baidu_site: 3rC08I0Cp6
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X, or Baidu Analytics hash key
-google_analytics:
-baidu_analytics:
+google_analytics: UA-39498261-3
+baidu_analytics: 1bb44bf25fea8f000a1397f9b5438de7
 
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
