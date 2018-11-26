@@ -4,10 +4,10 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  首页: /
-  导航: /WebGuide
-  Love: /ovwane_love
-  归档: /archives
+  博客首页: /
+  博客归档: /archives
+  测试导航: /FrontEndGuideV2/FrontEndGuide
+  关于Love: /ovwane_love
 # 博客首页: /Home
 # 作品展示: /works
 # 留言打卡: /about
