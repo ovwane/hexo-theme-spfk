@@ -6,8 +6,8 @@
 menu:
   博客首页: /
   博客归档: /archives
-  测试导航: /FrontEndGuideV2/FrontEndGuide
-  关于Love: /ovwane_love
+# 测试导航: /FrontEndGuideV2/FrontEndGuide
+# 关于Love: /ovwane_love
 # 博客首页: /Home
 # 作品展示: /works
 # 留言打卡: /about
